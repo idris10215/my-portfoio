@@ -27,9 +27,10 @@ const About = () => {
                              className="w-full sm:h-[276px] h-fit object-contain" />
                         <div>
                             <p className="grid-headtext"> HI, I'm Idris</p>
-                            <p className="grid-subtext"> I love building intuitive and dynamic
-                                web experiences. Always learning, creating, and solving real-world
-                                problems.</p>
+                            <p className="grid-subtext"> A passionate student exploring web development.
+                            I love building interactive and user-friendly web experiences while continuously learning new technologies. 
+                            Always excited to tackle real-world problems through code and innovation!
+                            </p>
                         </div>
                     </div>
                 </div>
