@@ -5,12 +5,12 @@ const Footer = () => {
                 <p>Mohammed Idris</p>
             </div>
 
-            <div className="flex gap-3">
+            <div className="flex gap-4">
                 <div className="social-icon">
-                    <img src="/assets/github.svg" alt="github" className="w-1/2 h-1/2" />
+                    <a href="https://github.com/idris10215"><img src="/assets/github.svg" alt="github" className="h-8" /></a>
                 </div>
                 <div className="social-icon">
-                    <img src="/assets/twitter.svg" alt="twitter" className="w-1/2 h-1/2" />
+                    <a href="https://linkedin.com/in/idris10215"><img src="/assets/linkedIn.svg" alt="linkedIn" className="h-8" /></a>
                 </div>
             </div>
 
