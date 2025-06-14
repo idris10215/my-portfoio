@@ -73,7 +73,7 @@ export const myProjects = [
     subdesc:
       "Meetzy leverages WebRTC for real-time communication, React.js for a dynamic and responsive frontend, and Node.js/Express to handle backend logic and API routing. It includes user authentication, modular architecture, and is designed for scalability and ease of feature expansion.",
     href: "https://meetzy-8rdp.onrender.com/",
-    texture: "",
+    texture: "/textures/project/meetzy.mp4",
     logoStyle: {
       backgroundColor: "#60f5a1",
       background:
